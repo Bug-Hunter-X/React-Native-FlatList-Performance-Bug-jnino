@@ -1,0 +1,1 @@
+This repository demonstrates a common performance issue in React Native's FlatList component when dealing with large datasets. The bug is caused by not providing a proper `keyExtractor` function, leading to inefficient rendering and potential crashes. The solution showcases how to correctly implement `keyExtractor` to significantly improve performance.
